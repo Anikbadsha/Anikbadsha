@@ -2,7 +2,7 @@
 - 👀 I’m interested in HMTL CSS Javascript PHP Larabel
 - 🌱 I’m currently learning Javascript
 - 🌱 Now I'm learning Flutter also for android and ios app Development.
-- 💞️ Making Android and Ios Apps Development 
+- 💞️ Doing Android and Ios Apps Development 
 - 💞️ I’m looking to collaborate on Project based on php and larabel 
 - 📫 How to reach me khananik2 - facebook username
 
