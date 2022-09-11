@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Anikbadsha
 - 👀 I’m interested in HMTL CSS Javascript PHP Larabel
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Java
 - 🌱 Now I'm learning Flutter also for android and ios app Development.
 - 💞️ Doing Android and Ios Apps Development 
-- 💞️ I’m looking to collaborate on Project based on php and larabel 
+- 💞️ I’m looking to collaborate on Project based on Flutter with Api and Firebase 
 - 📫 How to reach me khananik2 - facebook username
 
 
